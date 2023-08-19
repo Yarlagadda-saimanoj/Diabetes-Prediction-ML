@@ -52,7 +52,7 @@ he project provides insights into:
 ## License
 
 -  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Yarlagadda-saimanoj/Diabetes-Prediction-ML/blob/main/LICENSE)
-*  This code is distributed under the terms of both the [MIT](https://github.com/Yarlagadda-saimanoj/Diabetes-Prediction-ML/blob/main/LICENSE)
+*  This code is distributed under the terms of  [MIT](https://github.com/Yarlagadda-saimanoj/Diabetes-Prediction-ML/blob/main/LICENSE)
  license
 
 
