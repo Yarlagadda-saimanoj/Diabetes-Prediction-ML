@@ -1,3 +1,7 @@
+[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/release/python-370/)
+![stars](https://img.shields.io/github/stars/Yarlagadda-saimanoj/Diabetes-Prediction-ML)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Yarlagadda-saimanoj/Diabetes-Prediction-ML/blob/main/LICENSE)
+
 # Diabetes-Prediction-ML
 A Diabetes prediction Machine learning model using diagnostic data and algorithms such as logistic regression and decision trees. Evaluate their performance and deploy the top-performing model for accurate diabetes prediction.
 
